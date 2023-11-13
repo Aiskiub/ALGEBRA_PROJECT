@@ -9,7 +9,7 @@ from mtcnn.mtcnn import MTCNN
 import numpy as np
 
 
-#-------------------------------CLASE PARA INVENTARIO----------------------------------------------
+#-------------------------------CLASE PARA INVENTARIOO----------------------------------------------
 class Almacen:
     def __init__(self, nombre):
         self.nombre = nombre
