@@ -1,5 +1,6 @@
 from tkinter import *
 from tkinter import messagebox
+#hola desde mi mac
 
 class Almacen:
     def __init__(self, nombre):
